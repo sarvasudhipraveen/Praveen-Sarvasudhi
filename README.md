@@ -7,6 +7,7 @@
 </a>
 
 <p align="center">
+  <a href="https://spectral-web.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.credly.com/badges/8ef8f2fd-7c8b-44e4-946e-915311909b76" target="_blank"><img src="https://img.shields.io/badge/SAP%20Certified-ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Certified" /></a>
@@ -24,6 +25,7 @@
 ```yaml
 name: S. Praveen Srinivas
 role: Software Developer | AI/ML Engineer | SAP ABAP Cloud Developer
+portfolio: https://spectral-web.lovable.app/
 email: praveensrinivas85@gmail.com
 contact: +91-9010256748
 location: Tadepalligudem, Andhra Pradesh, India
@@ -148,12 +150,14 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
 <div align="center">
   <h3>📬 Let's Connect!</h3>
   <p>
+    <a href="https://spectral-web.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-praveen--srinivas--sarvasudhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/Email-praveensrinivas85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://wa.me/919010256748" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B91--9010256748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
   <p>
-    📧 <b>Direct Email:</b> <a href="mailto:praveensrinivas85@gmail.com">praveensrinivas85@gmail.com</a>
+    🌐 <b>Portfolio:</b> <a href="https://spectral-web.lovable.app/" target="_blank">spectral-web.lovable.app</a> &nbsp;|&nbsp;
+    📧 <b>Email:</b> <a href="mailto:praveensrinivas85@gmail.com">praveensrinivas85@gmail.com</a>
   </p>
   <p>⭐️ <i>Crafted with passion by S. Praveen Srinivas</i> ⭐️</p>
 </div>
