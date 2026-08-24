@@ -156,9 +156,9 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
 <div align="center">
   <h3>📬 Let's Connect!</h3>
   <p>
-    <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/praveensrinivas85@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a"><img src="https://img.shields.io/badge/LinkedIn-Praveen%20Srinivas-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="tel:+919010256748"><img src="https://img.shields.io/badge/Phone-+91--9010256748-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-praveen--srinivas--sarvasudhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/Email-praveensrinivas85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="tel:+919010256748"><img src="https://img.shields.io/badge/Phone-%2B91--9010256748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
   <p>⭐️ <i>Crafted with passion by S. Praveen Srinivas</i> ⭐️</p>
 </div>
