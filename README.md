@@ -1,53 +1,118 @@
 <div align="center">
 
-# 💫 Hi there, I'm Praveen Sarvasudhi 👋
+# 💫 S. Praveen Srinivas 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Passionate+Problem+Solver;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer;SAP+Certified+Back-End+Developer+(ABAP+Cloud);Full+Stack+Software+Developer;Competitive+Programmer+(600%2B+Problems+Solved);Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.credly.com/badges/8ef8f2fd-7c8b-44e4-946e-915311909b76" target="_blank"><img src="https://img.shields.io/badge/SAP%20Certified-ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Certified" /></a>
   <a href="https://github.com/sarvasudhipraveen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+📍 *Tadepalligudem, Andhra Pradesh, India*
 
 ---
 
 </div>
 
-## 🚀 About Me
+## 👨‍💻 Executive Summary
 
 ```yaml
-name: Praveen Sarvasudhi
-focus: Full Stack Development & Software Engineering
-passion: Building scalable applications, exploring modern web tech & problem solving
-currently_learning: Advanced Cloud Architectures & System Design
-ask_me_about: JavaScript, React, Node.js, Python, Databases & Web APIs
+name: S. Praveen Srinivas
+role: Software Developer | AI/ML Engineer | SAP ABAP Cloud Developer
+education: B.Tech in AI & Machine Learning @ Sri Vasavi Engg College (CGPA: 8.13/10)
+certifications:
+  - SAP Certified Back-End Developer (ABAP Cloud - C_ABAPD_2601)
+  - Cisco Intro to Modern AI
+  - NPTEL Internet of Things (IoT)
+problem_solving: 600+ DSA Problems Solved (400+ GeeksforGeeks | 200+ LeetCode)
+interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack Web Apps
 ```
 
-- 🔭 I’m currently crafting full-stack web applications and high-performance software.
-- 🌱 I constantly challenge myself with new technologies and algorithmic problem-solving.
-- 💬 Ask me about anything related to web development, APIs, or database design!
-- ⚡ Fun fact: *Code never sleeps, and neither do developer ideas.* ☕
+- 🏅 **SAP Certified Back-End Developer (ABAP Cloud)** proficient in the **ABAP RESTful Application Programming Model (RAP)** and **Clean Core Principles** for SAP S/4HANA Extensions.
+- 🤖 **AI & ML Specialist** experienced in developing end-to-end Machine Learning pipelines, exploratory data analysis, and scalable deployments on AWS.
+- ⚡ **Competitive Programmer** with strong algorithmic intuition across Trees, Dynamic Programming, Graphs, and Sliding Window techniques.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🏆 Featured Certifications & Credentials
+
+| Certification | Issuing Body | Status / Verification |
+| :--- | :--- | :--- |
+| **SAP Certified – Back-End Developer (ABAP Cloud)** | **SAP** | [Verify on Credly ↗](https://www.credly.com/badges/8ef8f2fd-7c8b-44e4-946e-915311909b76) *(ID: 8ef8f2fd)* |
+| **Introduction to Modern AI** | **Cisco Networking Academy** | Verified |
+| **Internet of Things (IoT) Certification** | **NPTEL** | Verified |
+| **Python Full Stack Development** | **My Access Pvt. Ltd.** | Internship Certified |
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,python,java,cpp" />
-</a>
+### 🤖 AI, Machine Learning & Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-00A86B?style=for-the-badge" />
+</p>
 
-<br/><br/>
+### 🏢 SAP & Enterprise Back-End
+<p>
+  <img src="https://img.shields.io/badge/SAP_ABAP_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_RAP_Model-0070F3?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Core_S/4HANA-003366?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_BTP-1E3A8A?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
-### 🗄️ Databases, Cloud & DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,git,github,vscode,postman,linux" />
-</a>
+### 💻 Languages & Full Stack Web
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,django,html,css,bootstrap,mysql,aws,git,github,vscode,postman" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 💼 Experience & Internships
+
+- **📊 Data Analyst Intern — Bluestock Fintech** *(Jun 2026 – Aug 2026)*
+  - Selected for a fintech internship to collaborate closely with the leadership team on data analytics, business reporting, and data-driven insights.
+
+- **🤖 AI & ML Intern — Edunet Foundation** *(Jun 2025 – Jul 2025)*
+  - Engineered and evaluated supervised & unsupervised ML models (classification, regression, clustering) on real-world datasets.
+  - Deployed scalable machine learning solutions on **AWS (EC2, S3)** in an agile team workflow.
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **🛡️ Fraud Detection System** | Supervised ML classification model engineered for real-time fraudulent transaction detection. | `Python` `Scikit-Learn` `Pandas` `ML Pipeline` | • Feature engineering & hyperparameter tuning<br/>• Optimized precision/recall, reduced false positives |
+| **🌍 Tourism Web Application** | Full-stack responsive web application with location-aware API integration. | `HTML5` `CSS3` `JavaScript` `MySQL` `XAMPP` | • 500+ active users<br/>• 10-mile radius point-of-interest discovery |
+
+---
+
+## 🧠 Algorithmic Problem Solving
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-400%2B_Problems-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-DP_|_Trees_|_Graphs_|_Sliding_Window-6366F1?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -89,5 +154,11 @@ ask_me_about: JavaScript, React, Node.js, Python, Databases & Web APIs
 ---
 
 <div align="center">
-  <p>⭐️ <i>Crafted with passion by <a href="https://github.com/sarvasudhipraveen">Praveen Sarvasudhi</a></i> ⭐️</p>
+  <h3>📬 Let's Connect!</h3>
+  <p>
+    <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/praveensrinivas85@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a"><img src="https://img.shields.io/badge/LinkedIn-Praveen%20Srinivas-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="tel:+919010256748"><img src="https://img.shields.io/badge/Phone-+91--9010256748-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  </p>
+  <p>⭐️ <i>Crafted with passion by S. Praveen Srinivas</i> ⭐️</p>
 </div>
