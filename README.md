@@ -102,10 +102,10 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
 
 ## 🚀 Highlighted Projects
 
-| Project | Description | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **✈️ Travel 360 (Anywhere to Anywhere)** | End-to-end travel booking & destination discovery platform connecting travelers from any origin to any destination globally. | `HTML5` `CSS3` `JavaScript` `MySQL` `REST APIs` `XAMPP` | • Anywhere-to-anywhere route & point-of-interest discovery<br/>• Interactive location-based APIs & responsive UI<br/>• Scaled to 500+ active users |
-| **🛡️ Fraud Detection System** | Supervised machine learning classification system engineered for high-precision real-time transaction fraud detection. | `Python` `Scikit-Learn` `Pandas` `ML Pipeline` | • Complete ML pipeline: EDA, feature engineering & tuning<br/>• Reduced false positive rate, maximizing precision & recall |
+| Project | Description | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **✈️ Travel 360 (Anywhere to Anywhere)** | End-to-end travel booking & destination discovery platform connecting travelers from any origin to any destination globally. | `HTML5` `CSS3` `JavaScript` `MySQL` `REST APIs` `XAMPP` | • Anywhere-to-anywhere route & POI discovery<br/>• Interactive location APIs & responsive UI<br/>• Scaled to 500+ active users | [🚀 **Live Demo**](https://travel-world-123.netlify.app/) |
+| **🛡️ Fraud Detection System** | Supervised machine learning classification system engineered for high-precision real-time transaction fraud detection. | `Python` `Scikit-Learn` `Pandas` `ML Pipeline` | • Complete ML pipeline & hyperparameter tuning<br/>• High precision & reduced false positives | [💻 **Repository**](https://github.com/sarvasudhipraveen) |
 
 ---
 
