@@ -24,6 +24,9 @@
 ```yaml
 name: S. Praveen Srinivas
 role: Software Developer | AI/ML Engineer | SAP ABAP Cloud Developer
+email: praveensrinivas85@gmail.com
+contact: +91-9010256748
+location: Tadepalligudem, Andhra Pradesh, India
 education: B.Tech in AI & Machine Learning @ Sri Vasavi Engg College (CGPA: 8.13/10)
 certifications:
   - SAP Certified Back-End Developer (ABAP Cloud - C_ABAPD_2601)
@@ -147,7 +150,10 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
   <p>
     <a href="https://www.linkedin.com/in/praveen-srinivas-sarvasudhi-7b696036a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-praveen--srinivas--sarvasudhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:praveensrinivas85@gmail.com"><img src="https://img.shields.io/badge/Email-praveensrinivas85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="tel:+919010256748"><img src="https://img.shields.io/badge/Phone-%2B91--9010256748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://wa.me/919010256748" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2B91--9010256748-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  </p>
+  <p>
+    📧 <b>Direct Email:</b> <a href="mailto:praveensrinivas85@gmail.com">praveensrinivas85@gmail.com</a>
   </p>
   <p>⭐️ <i>Crafted with passion by S. Praveen Srinivas</i> ⭐️</p>
 </div>
