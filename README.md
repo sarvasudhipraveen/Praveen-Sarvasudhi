@@ -104,8 +104,8 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
 
 | Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **🛡️ Fraud Detection System** | Supervised ML classification model engineered for real-time fraudulent transaction detection. | `Python` `Scikit-Learn` `Pandas` `ML Pipeline` | • Feature engineering & hyperparameter tuning<br/>• Optimized precision/recall, reduced false positives |
-| **🌍 Tourism Web Application** | Full-stack responsive web application with location-aware API integration. | `HTML5` `CSS3` `JavaScript` `MySQL` `XAMPP` | • 500+ active users<br/>• 10-mile radius point-of-interest discovery |
+| **✈️ Travel 360 (Anywhere to Anywhere)** | End-to-end travel booking & destination discovery platform connecting travelers from any origin to any destination globally. | `HTML5` `CSS3` `JavaScript` `MySQL` `REST APIs` `XAMPP` | • Anywhere-to-anywhere route & point-of-interest discovery<br/>• Interactive location-based APIs & responsive UI<br/>• Scaled to 500+ active users |
+| **🛡️ Fraud Detection System** | Supervised machine learning classification system engineered for high-precision real-time transaction fraud detection. | `Python` `Scikit-Learn` `Pandas` `ML Pipeline` | • Complete ML pipeline: EDA, feature engineering & tuning<br/>• Reduced false positive rate, maximizing precision & recall |
 
 ---
 
