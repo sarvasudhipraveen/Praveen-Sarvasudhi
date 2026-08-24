@@ -127,19 +127,8 @@ interests: Machine Learning, Cloud Systems, Enterprise ABAP Cloud, Full Stack We
 
   <br/><br/>
 
-  <!-- Stats & Streak Cards -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sarvasudhipraveen&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvasudhipraveen&theme=tokyonight&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Top Languages Donut Chart -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvasudhipraveen&layout=donut&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-
-  <br/><br/>
-
   <!-- Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sarvasudhipraveen&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6&column=7" alt="Profile Trophies" width="92%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarvasudhipraveen&theme=tokyo-night&no-frame=true&no-bg=true&margin_w=6&column=7" alt="Profile Trophies" width="92%" />
 
 </div>
 
